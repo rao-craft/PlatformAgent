@@ -14,7 +14,7 @@ let platformRecord: GraniteRoster.Record = { GraniteRoster.record(PlatformAgent.
 ```
 
 In [Craft](https://github.com/riteshpakala/Craft), install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/PlatformAgent.git`, then say `$platform` in a request:
+`craft agents add https://github.com/rao-craft/PlatformAgent.git`, then say `$platform` in a request:
 
 ```
 $platform the recipe app takes photos of dishes, opens recipes:// links, lets people save a link or

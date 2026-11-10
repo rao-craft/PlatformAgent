@@ -54,7 +54,7 @@ writes.
 ## Get it
 
 In Craft, install Platform from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/PlatformAgent.git`, then say `$platform` in a request.
+`craft agents add https://github.com/rao-craft/PlatformAgent.git`, then say `$platform` in a request.
 
 ## Requirements
 
